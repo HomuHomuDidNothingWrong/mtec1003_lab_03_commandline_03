@@ -16,15 +16,15 @@ This lab will review downloading and uncompressing files, and it will get us set
 Write the command that you used to do this below:
 ----------
 
-
+cd ~
 
 ==========
 2. Prove that you're in your home directory.
 
 Write the command that you used to do this - as well as its output - below :
 ----------
-
-
+cd ~
+ent-v314-008:~ student$ 
 
 ==========
 3. Are there any directories or files in your directory that have the word mtec1003 in it?
